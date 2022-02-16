@@ -1,7 +1,7 @@
 {
 "self": false,
 "autoread": true,
-"autoketik": false,
+"autoketik": true,
 "autovn": false,
 "OwnerNumber": "62858246299954",
 "OwnerName": "AbdiGans",
